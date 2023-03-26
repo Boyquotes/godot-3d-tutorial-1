@@ -1,3 +1,5 @@
 res://scenes/player/player.tscn
 res://scenes/player/Player.gd
 res://scenes/main/main.tscn
+res://scenes/mob/Mob.gd
+res://scenes/mob/mob.tscn
